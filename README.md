@@ -10,7 +10,7 @@
 ---
 
 ## Project Overview  
-**Silent Bridge** is an innovative real-time web application designed to empower communication between deaf/mute individuals and the hearing world. Developed as a final project for Grade 12 Computer Science, this application uses cutting-edge AI and machine learning to classify hand gestures and translate them into text and speech. With its intuitive design and advanced features, **Silent Bridge** aims to break down communication barriers and foster inclusivity.  
+**Silent Bridge** is an innovative real-time web application designed to empower communication between deaf/mute individuals and the hearing world. This application uses cutting-edge AI and machine learning to classify hand gestures and translate them into text and speech. With its intuitive design and advanced features, **Silent Bridge** aims to break down communication barriers and foster inclusivity.  
 
 ---
 
