@@ -1,7 +1,4 @@
 # Sign-Language-Translator
-Using TensorFlow to translate Sign Language in real-time. **_Final Release_**
-
- Got it! Let’s create a fresh and unique **README** for your project, **Silent Bridge**. I’ll tailor it to reflect your vision and ensure it stands out. Here's a new version:
 
 ---
 
